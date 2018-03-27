@@ -1,5 +1,5 @@
 package gitTest;
 
 public class test {
-  System.out.println();
+  int a = 10;
 }
